@@ -40,4 +40,4 @@ docs/src/tutorials/
 *.mp4
 *.png
 *.hdf5
-
+.DS_Store
